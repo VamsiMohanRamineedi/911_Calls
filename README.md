@@ -1,1 +1,1 @@
-Here, I am going to analyze 911 calls looking for any patterns in time and day when the calls were received.
+In this project, I am going to analyze some 911 call data available in [Kaggle](https://www.kaggle.com/mchirico/montcoalert).
