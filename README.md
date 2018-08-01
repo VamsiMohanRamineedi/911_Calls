@@ -29,11 +29,8 @@ The dataset contains the following features:
 
 ### Analysis Done:
 
-  - Top 5 zipcodes for 911 calls
-  - Most common reason for 911 calls
-
-    Emergency Medical Sevices
-
+  - Top 5 zipcodes for 911 calls.
+  - Most common reason for 911 calls? - Emergency Medical Sevices
   - Number of calls on each weekday for different reasons.
   - Number of calls in each weekday for different reasons.
   - Heatmap of calls on each weekday and each month.
