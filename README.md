@@ -35,11 +35,11 @@ The dataset contains the following features:
   - Number of calls in each weekday for different reasons.
   - Heatmap of calls on each weekday and each month.
     
-     ![alt text](https://github.com/VamsiMohanRamineedi/Exploratory_Data_Analysis_911_Calls_Data/blob/master/Images/Heatmap_weekday.PNG 'Most calls between 4 p.m. to 6 p.m.')
+     ![alt text](https://github.com/VamsiMohanRamineedi/Exploratory_Data_Analysis_911_Calls_Data/blob/master/Images/HeatMap.PNG 'Most calls between 4 p.m. to 6 p.m.')
 
   - Clustering calls by hour, day and month
 
-     ![alt text](https://github.com/VamsiMohanRamineedi/Exploratory_Data_Analysis_911_Calls_Data/blob/master/Images/Clustermap_weekday.PNG)
+     ![alt text](https://github.com/VamsiMohanRamineedi/Exploratory_Data_Analysis_911_Calls_Data/blob/master/Images/ClusterMap.PNG)
 
 
 
