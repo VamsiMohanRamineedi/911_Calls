@@ -42,7 +42,7 @@ The dataset contains the following features:
      ![alt text](https://github.com/VamsiMohanRamineedi/Exploratory_Data_Analysis_911_Calls_Data/blob/master/Images/ClusterMap.PNG)
 
 
-*This project has been done as a part of Data Science and Machine Learning course on [Udemy](https://www.udemy.com/python-for-data-science-and-machine-learning-bootcamp/)*
+
 
 
 
